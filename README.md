@@ -29,14 +29,12 @@ I'm a backend developer focused on building **secure, scalable, and efficient sy
 Secure licensing system designed to prevent abuse and unauthorized access.  
 Includes validation layers, protection logic, and scalable backend structure.
 
-→ *(coloca aqui o link do repo)*
+→ *(https://github.com/Drakkiosauro/key-management-system)*
 
 ---
 
 ### 🛡️ Security Research
 Vulnerability research and reports (SSRF, bypass techniques, etc.)
-
-→ *(se tiver repo ou writeups, coloca aqui)*
 
 ---
 
