@@ -90,15 +90,6 @@ Vulnerability research and reports (SSRF, bypass techniques, etc.)
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Drakkiosauro&theme=radical&background=000000&ring=ff0055&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 </div>
 
----
-
-## 🧠 Mindset
-
-I like to understand how systems break —  
-and rebuild them stronger, safer, and more efficient.
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Drakkiosauro&color=ff0055&style=for-the-badge" />
 </div>
