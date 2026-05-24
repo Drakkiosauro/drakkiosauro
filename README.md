@@ -1,44 +1,41 @@
-<!-- BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=392b58&height=220&section=header&text=Drakkiosauro&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <br>
 
-<!-- TYPING -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0055&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;Cybersecurity+Focused;Building+Secure+Systems" />
 </div>
 
 ---
 
-## 💻 About Me
+## About Me
 
-I'm a backend developer focused on building **secure, scalable, and efficient systems**.
+I am a 16-year-old backend developer focused on building secure, scalable, and efficient systems.
 
-- 🔒 Focused on **Cybersecurity & Backend Architecture**
-- ⚙️ Building **high-performance APIs**
-- 🛡️ Security-first mindset in every project
-- 🐧 Linux-based workflows & automation
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Key Management System (KMS)
-Secure licensing system designed to prevent abuse and unauthorized access.  
-Includes validation layers, protection logic, and scalable backend structure.
-
-→ *(https://github.com/Drakkiosauro/key-management-system)*
+* Focused on Cybersecurity and Backend Architecture
+* Building high-performance APIs
+* Security-first mindset in every project
+* Linux-based workflows and automation
 
 ---
 
-### 🛡️ Security Research
-Vulnerability research and reports (SSRF, bypass techniques, etc.)
+## Featured Projects
+
+### Key Management System (KMS)
+Secure licensing system designed to prevent abuse and unauthorized access. Includes validation layers, protection logic, and scalable backend structure.
+
+→ https://github.com/Drakkiosauro/key-management-system
 
 ---
 
-## 🛠️ Tech Stack
+### Security Research
+Vulnerability research and reports covering SSRF, bypass techniques, and defensive implementation.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -77,7 +74,7 @@ Vulnerability research and reports (SSRF, bypass techniques, etc.)
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Drakkiosauro&show_icons=true&theme=radical&bg_color=000000&title_color=ff0055&icon_color=ff0055&text_color=ffffff"/>
