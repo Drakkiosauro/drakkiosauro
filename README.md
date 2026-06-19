@@ -28,6 +28,10 @@ Secure licensing system designed to prevent abuse and unauthorized access. Inclu
 
 → https://github.com/Drakkiosauro/key-management-system
 
+## Finances
+A complete personal finance dashboard in Brazilian Portuguese (pt-BR) with Brazilian Real (R$) currency — built as a portfolio project.
+
+→ https://github.com/Drakkiosauro/Finances
 ---
 
 ### Security Research
