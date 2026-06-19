@@ -10,36 +10,52 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I am a 16-year-old backend developer focused on building secure, scalable, and efficient systems.
 
-* Focused on Cybersecurity and Backend Architecture
-* Building high-performance APIs
-* Security-first mindset in every project
-* Linux-based workflows and automation
+- 🔒 Focused on Cybersecurity and Backend Architecture
+- ⚡ Building high-performance APIs
+- 🛡️ Security-first mindset in every project
+- 🐧 Linux-based workflows and automation
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Key Management System (KMS)
-Secure licensing system designed to prevent abuse and unauthorized access. Includes validation layers, protection logic, and scalable backend structure.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3>🔑 Key Management System</h3>
+        <p><i>Secure licensing system designed to prevent abuse and unauthorized access.</i></p>
+        <p>Includes validation layers, protection logic, and scalable backend structure.</p>
+        <br>
+        <a href="https://github.com/Drakkiosauro/key-management-system">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>💰 Finances</h3>
+        <p><i>Personal finance dashboard in pt-BR with R$ currency.</i></p>
+        <p>Complete financial management system built as a portfolio project.</p>
+        <br>
+        <a href="https://github.com/Drakkiosauro/Finances">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-→ https://github.com/Drakkiosauro/key-management-system
-
-### Finances
-A complete personal finance dashboard in Brazilian Portuguese (pt-BR) with Brazilian Real (R$) currency — built as a portfolio project.
-
-→ https://github.com/Drakkiosauro/Finances
 ---
 
-### Security Research
+### 🔍 Security Research
 Vulnerability research and reports covering SSRF, bypass techniques, and defensive implementation.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -78,7 +94,7 @@ Vulnerability research and reports covering SSRF, bypass techniques, and defensi
 
 ---
 
-## Stats
+## 📊 Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Drakkiosauro&show_icons=true&theme=radical&bg_color=000000&title_color=ff0055&icon_color=ff0055&text_color=ffffff"/>
@@ -90,6 +106,8 @@ Vulnerability research and reports covering SSRF, bypass techniques, and defensi
 <div align="center">
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Drakkiosauro&theme=radical&background=000000&ring=ff0055&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Drakkiosauro&color=ff0055&style=for-the-badge" />
