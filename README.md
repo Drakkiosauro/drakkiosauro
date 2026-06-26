@@ -21,26 +21,17 @@ I am a 16-year-old backend developer focused on building secure, scalable, and e
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top" align="center">
+      <td width="100%" valign="top" align="center">
         <h3>🔑 Key Management System</h3>
         <p><i>Secure licensing system designed to prevent abuse and unauthorized access.</i></p>
         <p>Includes validation layers, protection logic, and scalable backend structure.</p>
         <br>
         <a href="https://github.com/Drakkiosauro/key-management-system">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <td width="50%" valign="top" align="center">
-        <h3>💰 Finances</h3>
-        <p><i>Personal finance dashboard in pt-BR with R$ currency.</i></p>
-        <p>Complete financial management system built as a portfolio project.</p>
-        <br>
-        <a href="https://github.com/Drakkiosauro/Finances">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
