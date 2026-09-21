@@ -1,60 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=180&section=header&text=Drakkiosauro&fontSize=62&fontAlignY=35&fontColor=ff0055" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=220&section=header&text=Drakkiosauro&fontSize=70&fontColor=ff0055&animation=fadeIn&fontAlignY=35&desc=CETO%20@%20SyncLua&descAlignY=55&descSize=18&descColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0055&size=20&center=true&vCenter=true&width=600&lines=Chief+Executive+%26+Technology+Officer+%40+SyncLua;Backend+Developer;Node.js+%2B+Python+%2B+Lua" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=Chief+Executive+%26+Technology+Officer+%40+SyncLua;Backend+%2B+Frontend+Developer;Lua%2C+Node.js%2C+TypeScript%2C+Python" />
   <br><br>
   <a href="https://synclua.slua.workers.dev/"><img src="https://img.shields.io/badge/SyncLua-live_site-ff0055?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Drakkiosauro/key-management-system"><img src="https://img.shields.io/badge/Key_Management_System-repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Drakkiosauro"><img src="https://img.shields.io/badge/GitHub-profile-0a0a0f?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Drakkiosauro&color=ff0055&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Drakkiosauro?color=0a0a0f&style=flat-square&label=FOLLOWERS" />
 </div>
 
 <br>
 
-### About
+<img align="right" width="320" src="https://cdn.jsdelivr.net/gh/AnderMendoza/AnderMendoza@main/assets/lineart.gif" />
 
-I'm 16, backend developer from Brazil.
+### About me
 
-Currently Chief Executive & Technology Officer at [SyncLua](https://synclua.slua.workers.dev/), an independent Lua studio focused on high performance Roblox scripts, custom bots and code optimization. I handle architecture and technical decisions there.
+16 y/o developer working as Chief Executive and Technology Officer at SyncLua.
 
-I work mostly with Node.js and Python. PHP and JavaScript when the project needs it.
+SyncLua: https://synclua.slua.workers.dev
 
-### Currently working on
+Independent Lua studio for high performance code: Roblox scripts, FiveM and GTA RP systems, custom bots, integrations and optimization.
 
-**1. SyncLua — https://synclua.slua.workers.dev/**
-<br>Studio site and product base. Roblox / FiveM systems, bots and integrations with focus on performance and code review.
+I lead tech there. Architecture, backend, frontend and code review. Right now focused only on SyncLua.
 
-**2. Key Management System — [repo](https://github.com/Drakkiosauro/key-management-system)**
-<br>Licensing backend for key creation, validation and revocation. Built to block reuse, sharing and tampered requests. This is where I test most of my auth and anti-abuse logic.
+<br clear="both">
 
-### Security notes
+<div align="center">
+<p>Roblox Systems | FiveM GTA RP | Custom Bots | APIs + Integrations | Optimization</p>
+</div>
 
-I study SSRF and auth bypass on my own backend code and document what I find. No buzzwords here, most of it is in the Key Management repo and in small private labs.
+---
 
 ### Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" />
+<p><b>Frontend moderno</b></p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" />
+<p>JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML5, CSS3</p>
+
+<p><b>Backend moderno</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,lua,postgres,mysql&theme=dark" />
+<p>Node.js, Python, PHP, Lua, PostgreSQL, MySQL</p>
+
+<p><b>Infra and tools</b></p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,vscode,cloudflare&theme=dark" />
+<p>Docker, Linux, Git, Cloudflare Workers, Burp Suite for self-testing</p>
 
 </div>
 
-Studying / occasional use: Java, C#, C++, SQL tuning
+---
 
 ### Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Drakkiosauro&show_icons=true&theme=radical&bg_color=0a0a0f&title_color=ff0055&icon_color=ff0055&text_color=ffffff&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkiosauro&layout=compact&theme=radical&bg_color=0a0a0f&title_color=ff0055&text_color=ffffff&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Drakkiosauro&show_icons=true&theme=radical&bg_color=0a0a0f,1a0a1a&title_color=ff0055&icon_color=ff0055&text_color=ffffff&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkiosauro&layout=compact&theme=radical&bg_color=0a0a0f,1a0a1a&title_color=ff0055&text_color=ffffff&hide_border=true&border_radius=12&langs_count=8" />
+  <br><br>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Drakkiosauro&bg_color=0a0a0f&color=ff0055&line=ff0055&point=ffffff&hide_border=true" />
+  <br><br>
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Drakkiosauro&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
 
+---
+
 <div align="center">
-  <sub>16 y/o — CETO @ SyncLua — backend, Lua systems and licensing</sub>
+  <a href="https://synclua.slua.workers.dev/"><img src="https://img.shields.io/badge/SyncLua_Live-ff0055?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <br><br>
+  <sub>CETO at SyncLua - Lua systems, modern web backend + frontend</sub>
 </div>
