@@ -24,7 +24,7 @@
 
 SyncLua: https://synclua.slua.workers.dev
 
-Independent Lua studio for high performance code: Roblox scripts, FiveM and GTA RP systems, custom bots, integrations and optimization.
+Independent Lua studio for high performance code: Roblox scripts, custom bots, integrations and optimization.
 
 I lead tech there. Architecture, backend, frontend and code review. Right now focused only on SyncLua.
 
