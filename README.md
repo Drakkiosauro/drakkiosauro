@@ -15,7 +15,7 @@
 
 I'm 16, backend developer from Brazil.
 
-Currently Chief Executive & Technology Officer at [SyncLua](https://synclua.slua.workers.dev/), an independent Lua studio focused on high performance Roblox scripts, FiveM / GTA RP systems, custom bots and code optimization. I handle architecture and technical decisions there.
+Currently Chief Executive & Technology Officer at [SyncLua](https://synclua.slua.workers.dev/), an independent Lua studio focused on high performance Roblox scripts, custom bots and code optimization. I handle architecture and technical decisions there.
 
 I work mostly with Node.js and Python. PHP and JavaScript when the project needs it.
 
