@@ -59,12 +59,12 @@ I lead tech there. Architecture, backend, frontend and code review. Right now fo
 ### Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Drakkiosauro&show_icons=true&theme=radical&bg_color=0a0a0f,1a0a1a&title_color=ff0055&icon_color=ff0055&text_color=ffffff&hide_border=true&border_radius=12" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkiosauro&layout=compact&theme=radical&bg_color=0a0a0f,1a0a1a&title_color=ff0055&text_color=ffffff&hide_border=true&border_radius=12&langs_count=8" />
+  <img width="49%" src="https://ghstats.dev/api/card?username=Drakkiosauro&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Drakkiosauro&theme=radical&background=0a0a0f&ring=ff0055&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0055&sideLabels=ffffff&dates=ffffff" />
   <br><br>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Drakkiosauro&bg_color=0a0a0f&color=ff0055&line=ff0055&point=ffffff&hide_border=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drakkiosauro&theme=radical" />
   <br><br>
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Drakkiosauro&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drakkiosauro&theme=radical" />
 </div>
 
 ---
