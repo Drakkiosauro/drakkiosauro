@@ -31,7 +31,7 @@ I lead tech there. Architecture, backend, frontend and code review. Right now fo
 <br clear="both">
 
 <div align="center">
-<p>Roblox Systems | FiveM GTA RP | Custom Bots | APIs + Integrations | Optimization</p>
+<p>Roblox Systems | Custom Bots | APIs + Integrations | Optimization</p>
 </div>
 
 ---
