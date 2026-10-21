@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0010,100:ff0055&height=230&section=header&text=Drakkiosauro&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CETO%20@%20SyncLua%20%26%20LIRO&descAlignY=56&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0010,100:ff0055&height=230&section=header&text=Drakkiosauro&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CETO%20at%20SyncLua%20and%20LIRO&descAlignY=56&descSize=18&descColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=CETO+%40+SyncLua+%26+LIRO;Building+LIRO%2C+an+all-in-one+Discord+bot;Backend+%2B+Frontend+Developer;Lua%2C+Node.js%2C+TypeScript%2C+Python" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=CETO+at+SyncLua+and+LIRO;Building+LIRO%2C+an+all-in-one+Discord+bot;Backend+%2B+Frontend+Developer;Lua%2C+Node.js%2C+TypeScript%2C+Python" />
   <br><br>
   <a href="https://synclua.slua.workers.dev/"><img src="https://img.shields.io/badge/SyncLua-live_site-ff0055?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://lirobot.onrender.com"><img src="https://img.shields.io/badge/LIRO-add_to_discord-5048ff?style=for-the-badge&logo=discord&logoColor=white" /></a>
