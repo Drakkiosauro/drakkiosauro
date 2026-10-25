@@ -1,5 +1,6 @@
+<!-- ─────────────────────────────── header ─────────────────────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:111111,100:2b2b2b&height=230&section=header&text=Drakkiosauro&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CEO%20%26%20CTO%20at%20LIRO&descAlignY=56&descSize=18&descColor=bdbdbd" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:111111,100:2b2b2b&height=230&section=header&text=Drakkiosauro&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CEO%20%EF%BC%86%20CTO%20at%20LIRO&descAlignY=56&descSize=18&descColor=bdbdbd" width="100%" />
 </div>
 
 <div align="center">
@@ -19,6 +20,7 @@
 
 <br>
 
+<!-- ─────────────────────────────── about ─────────────────────────────── -->
 ### ▸ about
 
 <img align="right" width="280" src="https://cdn.jsdelivr.net/gh/AnderMendoza/AnderMendoza@main/assets/lineart.gif" />
@@ -45,6 +47,7 @@ const drakkiosauro = {
 
 ---
 
+<!-- ─────────────────────────────── project ─────────────────────────────── -->
 ### ▸ featured project
 
 <table>
@@ -78,6 +81,7 @@ web dashboard</pre>
 
 ---
 
+<!-- ─────────────────────────────── stack ─────────────────────────────── -->
 ### ▸ stack
 
 <div align="center">
@@ -117,6 +121,7 @@ web dashboard</pre>
 
 ---
 
+<!-- ─────────────────────────────── stats ─────────────────────────────── -->
 ### ▸ stats
 
 <div align="center">
@@ -128,6 +133,7 @@ web dashboard</pre>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Drakkiosauro&bg_color=0d0d0d&color=bdbdbd&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=8" />
 </div>
 
+<!-- ─────────────────────────────── footer ─────────────────────────────── -->
 <br>
 
 <div align="center">
